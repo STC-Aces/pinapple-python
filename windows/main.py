@@ -1,5 +1,5 @@
 def main():
-    print("Hello, world!!")
+    print("You are on Windows!!")
 
-if __name__ == "__main__":
+if __name__ == "windows.main":
     main()
